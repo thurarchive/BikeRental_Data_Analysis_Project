@@ -53,4 +53,5 @@ If you prefer to use Shell or Terminal, follow these instructions:
 Once your environment is set up and dependencies are installed, you can run the Streamlit app with the following command:
 
 ```sh
+cd dashboard
 streamlit run dashboard.py

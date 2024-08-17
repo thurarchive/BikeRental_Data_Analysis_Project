@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -10,6 +11,7 @@ sns.set(style='darkgrid')
 # Load Data
 @st.cache_data
 def load_data():
+    file_path = os.path.join(os.path.dirname(__file__), 'main_data.csv')
     day = pd.read_csv('main_data.csv')
     day['dteday'] = pd.to_datetime(day['dteday'])
     day['year'] = day['yr'].map({0: 2011, 1: 2012})

@@ -1,4 +1,16 @@
-# Dicoding Data Analysis Project ✨
+# Dicoding Data Analysis Project by Fajri Fathur Rahman✨
+
+## Project Overview
+This project focuses on analyzing bike rental data to uncover patterns and insights that can help optimize bike-sharing services. We explore various factors affecting bike rentals, including weather conditions, seasonality, and user types. The analysis aims to provide valuable information for bike-sharing companies to improve their services and increase user satisfaction.
+Key features of this project include:
+
+- Data cleaning and preprocessing of bike rental datasets
+- Exploratory data analysis to identify trends and correlations
+- Visualization of rental patterns based on weather, season, and time
+- Interactive dashboard for easy exploration of insights
+
+The project utilizes Python for data analysis and Streamlit for creating an interactive web application to showcase the findings.
+
 
 ## Setup Environment - Anaconda
 

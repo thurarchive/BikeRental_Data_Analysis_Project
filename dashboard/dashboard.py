@@ -8,7 +8,7 @@ from datetime import datetime
 sns.set(style='darkgrid')
 
 # Load Data
-@st.cache_data
+@st.cache
 def load_data():
     day = pd.read_csv('main_data.csv')
     day['dteday'] = pd.to_datetime(day['dteday'])

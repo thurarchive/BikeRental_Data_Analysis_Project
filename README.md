@@ -1,4 +1,4 @@
-# Dicoding Data Analysis Project by Fajri Fathur Rahman✨
+# Bike Rental Data Analysis Project by Fajri Fathur Rahman✨
 
 ## Project Overview
 This project focuses on analyzing bike rental data to uncover patterns and insights that can help optimize bike-sharing services. We explore various factors affecting bike rentals, including weather conditions, seasonality, and user types. The analysis aims to provide valuable information for bike-sharing companies to improve their services and increase user satisfaction.
